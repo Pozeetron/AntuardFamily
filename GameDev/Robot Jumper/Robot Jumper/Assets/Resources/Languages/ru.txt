@@ -1,0 +1,14 @@
+PLAYBUTTON=Играть
+SETTINGSBUTTON=Настройки
+RULESBUTTON=Правила
+LEVELSBUTTON=Уровни
+BACKBUTTON=Назад
+LEVELSMENUNAME=Уровни
+SETTINGSMENUNAME=Настройки
+RULESMENUNAME=Правила
+RULESMENUTEXT=Нажмите на екран, чтобы изменить гравитацию робота, соберите все ключи на уровне, чтобы открыть дверь и пройти уровень.
+GAMEOVERTEXT=Вы Проиграли!
+LEVELCOMPLETETEXT=Вы Победили!
+NEXTBUTTON=Дальше
+AGAINBUTTON=Сначала
+MENUBUTTON=Меню

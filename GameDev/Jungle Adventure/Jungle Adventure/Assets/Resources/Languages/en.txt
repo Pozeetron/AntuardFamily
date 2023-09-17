@@ -1,0 +1,10 @@
+PLAYBUTTON=PLAY
+MENUBUTTON=Menu
+AGAINBUTTON=Again
+RESTARTBUTTON=Restart
+RULESMENUNAME=How to play
+RESUMEBUTTON=Resume
+RULESMENUTEXT=Jump on the vines, cling to them and let go at a certain moment to jump over. Watch out for birds and scare them away!
+SETTINGSMENUNAME=Setting
+LEADERBOARDTEXT=Leaderboard
+PAUSETEXT=PAUSE

@@ -1,0 +1,14 @@
+PLAYBUTTON=ИГРАТЬ
+SETTINGSBUTTON=НАСТРОЙКИ
+RULESBUTTON=ПРАВИЛА
+LEVELSBUTTON=УРОВНИ
+BACKBUTTON=НАЗАД
+LEVELSMENUNAME=УРОВНИ
+SETTINGSMENUNAME=НАСТРОЙКИ
+RULESMENUNAME=ПРАВИЛА
+RULESMENUTEXT=БРОСАЙТЕ МЯЧ В КОРЗИНУ, ОСТЕРЕГАЙТЕСЬ ШИПОВ. УПРАВЛЯЙТЕ МЯЧ С ПОМОЩЬЮ КНОПОК.
+GAMEOVERTEXT=ИГРА ОКОНЧЕНА!
+LEVELCOMPLETETEXT=УОРВЕНЬ ПРОЙДЕН!
+NEXTBUTTON=ДАЛЬШЕ
+AGAINBUTTON=СНАЧАЛА
+MENUBUTTON=МЕНЮ

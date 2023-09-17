@@ -1,0 +1,12 @@
+PLAYBUTTON=ИГРАТЬ
+SETTINGSBUTTON=НАСТРОЙКИ
+RULESBUTTON=ПРАВИЛА
+HEROBUTTON=ПЕРСОНАЖ
+BACKBUTTON=НАЗАД
+SETTINGSMENUNAME=НАСТРОЙКИ
+RULESMENUNAME=ПРАВИЛА
+HEROMENUNAME=ПЕРСОНАЖ
+RULESMENUTEXT=СРАЖАЙТЕСЬ НА АРЕНЕ, СОБИРАЙТЕ БУТЫЛКИ С ЭЛИКСИРОМ, ДЛЯ ВОССТАНОВЛЕНИЯ ЗДОРОВЬЯ.
+GAMEOVERTEXT=ИГРА ОКОНЧЕНА
+AGAINBUTTON=СНАЧАЛА
+MENUBUTTON=МЕНЮ

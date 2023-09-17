@@ -1,0 +1,10 @@
+PLAYBUTTON=ИГРАТЬ
+MENUBUTTON=Меню
+AGAINBUTTON=Дальше
+RESTARTBUTTON=Заново
+RULESMENUNAME=Как играть
+RESUMEBUTTON=Дальше
+RULESMENUTEXT=Прыгайте по лианам, цепляйся за них и отпускай в определенный момент, чтобы перепрыгнуть. Остерегайся птиц и отпугивай их!
+SETTINGSMENUNAME=Настройки
+LEADERBOARDTEXT=Таблица лидеров
+PAUSETEXT=ПАУЗА

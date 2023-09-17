@@ -1,0 +1,17 @@
+PLAYBUTTON=ИГРАТЬ
+SETTINGSBUTTON=НАСТРОЙКИ
+MENUBUTTON=МЕНЮ
+RULESMENUNAME=ПРАВИЛА
+RULESBUTTON=ПРАВИЛА
+RESTARTBUTTON=СНАЧАЛА
+SELECTBUTTON=ВЫБОР МОНСТРА
+SELECTMENUNAME=ВЫБОР МОНСТРА
+ON=ВКЛ
+OFF=ВЫКЛ
+BACKBUTTON=НАЗАД
+SOUNDTEXT=ЗВУК
+VIBRATIONTEXT=ВИБРАЦИЯ
+LANGUAGETEXT=ЯЗЫК
+RULESMENUTEXT=ЗАБИВАЙТЕ ГОЛ НЕ МЯЧОМ А САМИМ МОНСТРОМ, ПОМНИТЕ, У ВАС ЕСТЬ ОГРАНИЧЕННОЕ КОЛИЧЕСТВО ПРЫЖКОВ. КОЛЬЦО ДВИЖЕТСЯ КАЖДЫЙ РАЗ, КОГДА ВЫ ЗАБИВАЕТЕ ГОЛ, А ТАКЖЕ КОЛЬЦО МОЖЕТ ВРАЩАТЬСЯ, ДВИГАТЬСЯ И Т.Д. НЕ ВЫЛЕТАЙТЕ ЗА ПРЕДЕЛЫ ЭКРАНА.
+SETTINGSMENUNAME=НАСТРОЙКИ
+GAMEOVER=ИГРА ОКОНЧЕНА!

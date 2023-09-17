@@ -1,0 +1,10 @@
+PLAYBUTTON=PLAY
+MENUBUTTON=Menu
+AGAINBUTTON=Again
+RESTARTBUTTON=Reiniciar
+RULESMENUNAME=Como jogar
+RESUMEBUTTON=Resumo
+RULESMENUTEXT=Pule nos kipos, agarre-se a elas e solte-os em um determinado momento para pular. Cuidado com os passaros e afugente-os!
+SETTINGSMENUNAME=Configuracao
+LEADERBOARDTEXT=Tabela de classificacao
+PAUSETEXT=PAUSA

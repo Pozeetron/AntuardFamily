@@ -1,0 +1,14 @@
+PLAYBUTTON=Play
+SETTINGSBUTTON=Settings
+RULESBUTTON=Rules
+LEVELSBUTTON=Levels
+BACKBUTTON=Back
+LEVELSMENUNAME=Levels
+SETTINGSMENUNAME=Settings
+RULESMENUNAME=Rules
+RULESMENUTEXT=Tap the screen to change gravity the robot, collect all the keys on the level to open the door and pass the level.
+GAMEOVERTEXT=You Lose!
+LEVELCOMPLETETEXT=You Win!
+NEXTBUTTON=Next
+AGAINBUTTON=Again
+MENUBUTTON=Menu

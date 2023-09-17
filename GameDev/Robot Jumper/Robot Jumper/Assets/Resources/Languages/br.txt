@@ -1,0 +1,14 @@
+PLAYBUTTON=Jogar
+SETTINGSBUTTON=Configuracao
+RULESBUTTON=Regras
+LEVELSBUTTON=Niveis
+BACKBUTTON=Voltar
+LEVELSMENUNAME=Niveis
+SETTINGSMENUNAME=Configuracao
+RULESMENUNAME=Regras
+RULESMENUTEXT=Clique na tela para mudar a gravidade do robo, colete todas as chaves do nivel para abrir porta e passar de nivel.
+GAMEOVERTEXT=Voce perdeu!
+LEVELCOMPLETETEXT=Voce ganhou!
+NEXTBUTTON=Avancar
+AGAINBUTTON=Inicialmente
+MENUBUTTON=Cardapio
